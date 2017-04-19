@@ -4,5 +4,5 @@ CREATE TABLE books (
   title TEXT,
   author TEXT,
   original_language TEXT,
-  first_published INTEGER
+  first_published TEXT
 );
